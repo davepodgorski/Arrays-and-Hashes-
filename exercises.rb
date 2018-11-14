@@ -58,4 +58,29 @@ fav_movies[:"Beauty and the Beast remake"] = 2017
 fav_bands.delete("The Eagles")
 
 cities[:Toronto] = 50
-x
+
+
+# total = 0
+# cities.each do |city, pop|
+# total += pop
+# end
+# puts "Total population: #{total}"
+
+# def ageshaming(hash)
+#   hash.each do |friend, age|
+#     if age < 30
+#       p "#{friend} is young."
+#     else
+#       p "#{friend} is old."
+#     end
+#   end
+# end
+#
+# puts ageshaming(friends)
+
+# puts fav_colours [-2..-1]
+
+# ages.map { |x| x + 1}
+
+fav_colours << "cyan"
+fav_colours << "indigo"
